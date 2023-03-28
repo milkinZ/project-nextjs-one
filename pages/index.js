@@ -32,7 +32,7 @@ export default function Home() {
         </div>
       </div>
       <hr></hr>
-      <div className='text-center mt-12 space-y-60'>
+      <div className='text-center mt-12 p-4 space-y-60'>
         <div className='space-y-2'>
           <h1 className='text-4xl text-gray-200 font-mono font-semibold'>Welcome to My Page</h1>
           <p className='font-mono text-gray-100 text-sm'>Hi everybody, this is my first Next JS project</p>
